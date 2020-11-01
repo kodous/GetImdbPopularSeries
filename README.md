@@ -5,10 +5,10 @@ TV Series.
 of the most 100 TV series the past week, on IMDB.
 
 # Prerequisites
-*BeautifulSoup: scrap web page elements
+* BeautifulSoup: scrap web page elements
 ```
 pip install beautifulsoup4
 ```
 
-*requests: send HTTPS requests to IMDB servers
+* requests: send HTTPS requests to IMDB servers
 already installed
